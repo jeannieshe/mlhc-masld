@@ -20,4 +20,4 @@ To clean the data, run all the Jupyter notebooks and scripts in the "clean" dire
 
 To train the models, run the Jupyter notebook with the name of that model. Each of these Jupyter notebooks includes code for evaluating the model output as well.
 
-Finally, for interpretations, rum the notebooks in the interpret folder.
+Finally, for interpretations, run the notebooks in the interpret folder.
